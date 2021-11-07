@@ -6,4 +6,4 @@ While working on this project, I tried to put my CSS and HTML knowledge which I 
 Here is a preview;
 ![myTributePage](https://github.com/imcagla/TributePage/blob/master/tributepage.PNG?raw=true "Title")
 
-![iupic](https://github.com/imcagla/TributePage/blob/master/iu.PNG?raw=true "Title")
+![iupic](https://github.com/imcagla/TributePage/blob/master/iu.png?raw=true "Title")
