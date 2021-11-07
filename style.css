@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    line-height: 1.5;
+    color: #252525;
+    height: 100%;
+    background-color: antiquewhite;
+}
+
+.header {
+    background-color:rgb(185, 96, 156);
+    display: block;
+    width: 100%;
+    height: 20%;
+    top:0;
+    left:0;
+    position: absolute;
+}
+
+#title {
+    display: flex;
+    justify-content: center;
+    font-size: 4rem;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+#main {
+    display: block;
+    width: 100%;
+    height: auto;
+    top:20%;
+    left:0;
+    position: absolute;
+    background-image: linear-gradient(180deg,#b9609c, white);
+}
+
+figure {
+    background: rgb(202, 199, 212);
+    padding: 1.5rem;
+    border-radius: 5%;
+}
+
+#img-caption {
+    font-family: cursive;
+    margin-top: 10px;
+    font-size: 1.1rem;
+}
+  
+#tribute-info {
+    display: block;
+    font-family: cursive;
+    font-size: 1.2rem;
+}
+  
+ul {
+    display: block;
+    max-width: 800px;
+    margin: auto;
+    text-align: left;
+}
+img {
+    display:block;
+    max-width: 100%;
+    height: auto;
+}
+
+.link-desc, h1 {
+    font-family: lucida handwriting;
+    font-size: 2rem;
+}
